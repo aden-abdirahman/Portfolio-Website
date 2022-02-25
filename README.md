@@ -16,7 +16,7 @@ This is a responsive portfolio website that looks greate on all screen sizes. It
 
 Screenshots of running program: ![](images/Screenshot1.png) ![](images/Screenshot2.png)
 
-Link to deployed website: https://aden-abdirahman.github.io/Work-Day-Scheduler/
+Link to deployed website: https://aden-abdirahman.github.io/Portfolio-Website/
 
 ### Installation:
 
