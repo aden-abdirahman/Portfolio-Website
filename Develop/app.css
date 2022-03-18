@@ -33,7 +33,7 @@
 
 body {
   min-height: 100vh;
-  background-image: url("../svg/Ripple2.svg");
+  background-image: url("../Assets/svg/Ripple2.svg");
   background-attachment: fixed;
   font-size: 16px;
   font-family: "Montserrat", sans-serif;
@@ -465,7 +465,7 @@ button {
 }
 
 .home-img .img-box {
-  background: url(/images/profile-pic.png);
+  background: url(../Assets/images/profile-pic.png);
   background-size: cover;
   background-position: center;
   max-width: 360px;
