@@ -465,16 +465,19 @@ button {
 }
 
 .home-img .img-box {
+  background: url(/images/profile-pic.png);
+  background-size: cover;
   max-width: 360px;
   background-color: var(--white-alpha-25);
   border-radius: 50%;
   border: 8px solid var(--white-alpha-25);
 }
 
-.home-img .img-box img {
+/* .home-img .img-box img {
   width: 100%;
   border-radius: 50%;
-}
+  object-fit: cover;
+} */
 
 /* About Section */
 .about-img {
@@ -882,28 +885,29 @@ button {
   }
   
 @media screen and (max-width: 694px) {
-  .section-title h2,
-  .header .nav-inner ul li a {
-    font-size: 35px;
+    .section-title h2,
+    .header .nav-inner ul li a {
+      font-size: 35px;
+    }
+    .home-text h1 {
+      font-size: 30px;
+    }
+    .home-text h2 {
+      font-size: 18px;
+    }
+    .pp-header h3 {
+      font-size: 20px;
+    }
+    .home-img {
+      display: block;
+      margin: 0 auto;
+    }
+    .pp-thumbnail img {
+      max-width: 460px;
   }
-  .home-text h1 {
-    font-size: 30px;
-  }
-  .home-text h2 {
-    font-size: 18px;
-  }
-  .pp-header h3 {
-    font-size: 20px;
-  }
-  .home-img {
-    display: block;
-    margin: 0 auto;
-  }
-  .pp-thumbnail img {
-    max-width: 460px;
-}
  
 }
+
 @media screen and (max-width: 500px) {
     .pp-thumbnail img{
         max-width: 300px;
