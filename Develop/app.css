@@ -467,6 +467,7 @@ button {
 .home-img .img-box {
   background: url(/images/profile-pic.png);
   background-size: cover;
+  background-position: center;
   max-width: 360px;
   background-color: var(--white-alpha-25);
   border-radius: 50%;
