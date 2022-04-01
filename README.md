@@ -14,7 +14,7 @@
 
 This is a responsive portfolio website that looks greate on all screen sizes. It features an animated SVG background, a clean looking menu for navigation, and links to all my deployed apps.
 
-Screenshots of running program: ![](images/Screenshot1.png) ![](images/Screenshot2.png)
+Screenshots of running program: ![](Assets/images/Screenshot1.png) ![](Assets/images/Screenshot2.png)
 
 Link to deployed website: https://aden-abdirahman.github.io/Portfolio-Website/
 
